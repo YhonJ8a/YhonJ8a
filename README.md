@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🚀 Full-Stack Developer | Scalable Systems Architect | Business Logic Expert 🧐</h4>
+<h4 align="left">🚀 Full-Stack Developer | Scalable Systems Architect | Business Logic 🧐</h4>
 
 ###
 
