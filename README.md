@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👌😂Passionate about software development, I specialize in designing and building scalable. With extensive experience in system architecture and business logic, I focus on creating efficient and maintainable. I thrive in solving complex problems, optimizing workflows.💡🚀</p>
+<p align="left">👌Full Stack Developer with 3+ years of experience building ERPs and apps using React, TypeScript, and Node.js. I have led the delivery of 12+ modules to production, reducing processing times by up to 60%. Specialized in clean architectures, TDD, and enterprise automation.🚀</p>
 
 ###
 
@@ -82,8 +82,5 @@
 </div>
 
 ###
-
-
-<p align="left">🐛Hello World!!✨</p>
 
 ###
